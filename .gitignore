@@ -1,0 +1,5 @@
+.vscode
+venv/
+*.png
+*.hdf
+combined_sort_timestamp.csv
